@@ -1,5 +1,4 @@
 # BlinkIT Grocery Sales Dashboard Project
-# BlinkIT Grocery Sales Dashboard Project
 
 ![BlinkIT](./image.png)
 
