@@ -1,2 +1,2 @@
-BlinkIT Grocery Sales Dashboard Project
+# BlinkIT Grocery Sales Dashboard Project
 
